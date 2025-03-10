@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9784eddb-e22a-4b48-b048-32cb8b0a4474" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JLExtensions.tab/Dev.panel/SelectByUser.pushbutton/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/About.panel/PyrevitStarterKit.pushbutton/AboutUI.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/About.panel/PyrevitStarterKit.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/About.panel/PyrevitStarterKit.pushbutton/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/Dev.panel/DevButton_1.pushbutton/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../JLExtensions.tab/Dev.panel/DevButton_1.pushbutton/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/Dev.panel/DevButton_1.pushbutton/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JLExtensions.tab/Dev.panel/DevButton_1.pushbutton/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/Dev.panel/DevButton_2.pushbutton/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JLExtensions.tab/Dev.panel/DevButton_2.pushbutton/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/LearnRevitAPI.urlbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/LearnRevitAPI.urlbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/Testimonial.urlbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/Testimonial.urlbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/Testimonial.urlbutton/old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/links.stack/Blog.urlbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/links.stack/Blog.urlbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/links.stack/FreeLessons.urlbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/links.stack/FreeLessons.urlbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/links.stack/Newsletter.urlbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/links.stack/Newsletter.urlbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/pyRevitMasterclass.urlbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/LearnRevitAPI.panel/pyRevitMasterclass.urlbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JLExtensions.tab/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../JLExtensions.tab/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Samples/TemplatePyRevitMin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Samples/TemplatePyRevitMin.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sx78AF538vA8GmXKKVV4NFrqKL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.data_types.executor": "Run",
+    "Python.logic_in_python.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.operators.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Admin/AppData/Roaming/GitHub pyRevit/PyRevit Hacker Library/1. Python Basics",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\AppData\Roaming\GitHub pyRevit\JLE_RevitAPI.extension\Py_Variables.py\variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <option name="studyTest" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Python Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9784eddb-e22a-4b48-b048-32cb8b0a4474" name="Changes" comment="" />
+      <created>1739385210073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739385210073</updated>
+    </task>
+    <servers />
+  </component>
+</project>
